@@ -2,7 +2,7 @@
 
 Bike Buyers Analysis - Excel Data Analysis Project
 
-** Project Overview**
+ Project Overview
 This project is my first step in data analysis using Excel. It focuses on analyzing customer data to uncover insights about bike purchasing behavior. The dataset includes various customer attributes such as gender, age, marital status, income, education level, occupation, and commute distance. The project involved cleaning the data, creating pivot tables, and building a dashboard to visually represent the findings.
 
 Objectives
