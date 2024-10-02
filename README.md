@@ -47,5 +47,5 @@ Key Insights
 
 
 Conclusion
-This project helped me understand the basics of data analysis using Excel. I was able to explore the data through pivot tables and visually communicate my findings through a dashboard. This project is part of my journey to becoming a data analyst.
+This project helped me understand the basics of data analysis using Excel. I was able to explore the data through pivot tables and visually communicate my findings through a dashboard. This project is part of my journey to becoming a data scientist.
 
